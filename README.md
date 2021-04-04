@@ -1,7 +1,13 @@
-# Tea Cozy - Fictional tea cafe website
+# Tea Cozy - Fictional Tea Cafe Website
 
-This is my redesign of the Tea Cozy project from Codecademy's Front End Engineer career path. The website is fully responsive and includes additional concepts such as CSS smooth scrolling.
+This is my redesign of the Tea Cozy project from Codecademy's Front End Engineer career path. The website is fully responsive and includes additional concepts such as CSS smooth scrolling. All fonts, colors, and styles are my own.
 
-## The original design
+The fonts used is [Roboto-Condensed](https://fonts.google.com/specimen/Roboto+Condensed) and [Pacifico](https://fonts.google.com/specimen/Pacifico?preview.text=tea%20cozy&preview.text_type=custom).
 
-The design spec given by Codecademy is located at [Vercel](https://bit.ly/fem-vercel).
+## Original Design
+
+This is the [design spec](https://www.dropbox.com/s/pn49f1fdswpmjwb/Tea-Cozy-Design-Spec.jpg?dl=0) given by Codecademy.
+
+## Feedback
+
+Feedback is always welcome! Please message me on GitHub or [email me](mailto:mrstarbuck@me.com).
