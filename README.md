@@ -2,7 +2,7 @@
 
 This is my redesign of the Tea Cozy project from Codecademy's Front End Engineer career path. The website is fully responsive and includes additional concepts such as CSS smooth scrolling. All fonts, colors, and styles are my own.
 
-The fonts used is [Roboto-Condensed](https://fonts.google.com/specimen/Roboto+Condensed) and [Pacifico](https://fonts.google.com/specimen/Pacifico?preview.text=tea%20cozy&preview.text_type=custom).
+The fonts used are [Roboto-Condensed](https://fonts.google.com/specimen/Roboto+Condensed) and [Pacifico](https://fonts.google.com/specimen/Pacifico?preview.text=tea%20cozy&preview.text_type=custom).
 
 ## Original Design
 
